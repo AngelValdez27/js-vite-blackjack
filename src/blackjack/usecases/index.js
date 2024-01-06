@@ -1,0 +1,6 @@
+export { pedirCarta } from './ask-for-card'
+export { valorCarta } from './card-value'
+export { crearDeck } from './init-dekck'
+export { crearCarta } from './create-card'
+export { turnoPc } from './pc-turn.js'
+export { acumularPuntosJugador } from './accumulate-points.js'
